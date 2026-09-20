@@ -252,3 +252,34 @@ Combining insights from demand and salary data, this query aimed to pinpoint ski
 Important note
 
 The photos have a few areas where the screen is covered by the video controls, face-cam, or cropped at the edge. I have not invented the missing values. In particular, the first salary bar graph's individual values aren't fully readable from the uploaded photo, so I preserved its description rather than making up numbers.
+What I Learned
+
+
+###  WHAT I LEARNED
+
+Through this project, I learned how to use SQL to analyze real-world job market data for Data Analysts and extract meaningful insights from job postings. I learned how to use SQL concepts such as JOIN, GROUP BY, COUNT, AVG, ROUND, WHERE, HAVING, ORDER BY, and LIMIT to analyze job demand, salaries, and required skills.
+
+I also learned how to connect different tables, such as job postings, skills, companies, and job-skill relationships, to obtain useful information. By analyzing the data, I understood which skills are frequently requested by employers and which skills are associated with higher salaries.
+
+The project helped me understand that SQL is one of the most important and highly demanded skills for Data Analysts, followed by skills such as Excel, Python, Tableau, and Power BI. I also learned that specialized skills such as PySpark, cloud technologies, machine learning tools, BigQuery, Snowflake, AWS, and Azure can be associated with higher-paying Data Analyst positions.
+
+Another important thing I learned was how to analyze both demand and salary together rather than looking at only one factor. A skill may have very high demand but not necessarily have the highest average salary, while some specialized skills may have higher salaries but appear in fewer job postings.
+
+I also learned how to use data visualization to communicate SQL results. The graphs made it easier to understand the frequency of skills and compare the demand for different technologies.
+
+Overall, this project improved my understanding of SQL, data analysis, data visualization, job-market analysis, and how to turn raw data into useful career insights.
+
+###Conclusion
+
+This project shows that the Data Analyst job market in 2023 strongly valued a combination of technical, analytical, and visualization skills. SQL had the highest demand in the analyzed job postings, followed by Excel, Python, Tableau, and Power BI.
+
+The salary analysis also showed that employers offered higher average salaries for candidates with specialized technical skills, particularly in areas such as big data, machine learning, cloud computing, data engineering, and advanced Python technologies.
+
+The analysis therefore helped identify an important pattern: building a strong foundation in SQL and Excel, followed by developing skills in Python, visualization tools, and cloud or advanced data technologies, can help prepare someone for a wider range of Data Analyst opportunities.
+
+The project also demonstrated the importance of using data to make career decisions. Instead of relying only on assumptions about which skills are valuable, I was able to use job demand and salary data to understand the skills employers were actually requesting.
+
+In conclusion, this project gave me practical experience in using SQL to investigate real-world employment data and helped me understand the relationship between skills, job demand, and salary in the Data Analyst field.
+
+Available next action: 
+Create a downloadable DOCX file here in this chat containing the editable prose above
